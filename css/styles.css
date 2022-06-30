@@ -11404,13 +11404,14 @@ hr.divider-light {
 }
 
 header.masthead {
-  padding-top: 10rem;
+  /*
+  padding-top: 10rem;*/
   padding-bottom: calc(10rem - 4.5rem);
   background: #e60e0e;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-size: cover;
+  /*background-size: cover;*/
 }
 header.masthead h1, header.masthead .h1 {
   font-size: 2.25rem;
